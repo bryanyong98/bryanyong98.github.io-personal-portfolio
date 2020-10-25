@@ -95,6 +95,12 @@
 * {
   box-sizing: border-box; }
 
+
+#project3id {
+  height: 70%;
+}
+
+
 body {
   background: #444;
   color: #fff;
