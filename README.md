@@ -1,12 +1,13 @@
 # Personal Portfolio Website 
 
-My personal website which describes my profile, projects worked on and resume available for downloads.
+A minimalistic and beautiful user interface created using the web technologies HTML and SCSS. This personal website describes my profile, projects worked on and resume available for downloads.
 
 <br/> 
 
 ## Features 
-- My most recently updated resume available for downloads
-- Responsive user interface design which caters for various platforms 
+- My most recently updated resume available for downloads. 
+- Responsive user interface design which caters for various platforms. 
+- Minimalistic and beautiful user interface. 
 
 <br/> 
 
