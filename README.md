@@ -1,6 +1,6 @@
 # Personal Portfolio Website 
 
-A personal website to showcase my personal software projects. 
+My personal website which describes my profile, projects worked on and resume available for downloads.
 
 <br/> 
 
